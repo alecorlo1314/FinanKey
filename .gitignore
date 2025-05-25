@@ -1,0 +1,18 @@
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+
+# Configuración de usuario
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Archivos temporales
+*.db
+*.log
